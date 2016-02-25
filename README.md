@@ -1,4 +1,2 @@
-thumbnail-gallery-wordpress-plugin
-=====
-
-Thumbnail Gallery (WordPress Plugin)
+Thumbnail Gallery WordPress Plugin
+======
